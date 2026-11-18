@@ -1,0 +1,30 @@
+﻿{
+  "name": "gamblemath-mcp",
+  "version": "1.0.0",
+  "description": "Deterministic quantitative gambling math, RTP variance telemetry across 4,362 slots, UKGC register exploration, and Monte Carlo probability calculators.",
+  "type": "module",
+  "bin": {
+    "gamblemath-mcp": "./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dividendflow-dev/gamblemath-mcp.git"
+  },
+  "homepage": "https://gamblemath.org",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "casino",
+    "rtp",
+    "slot-rtp",
+    "ukgc",
+    "gambling-math",
+    "monte-carlo",
+    "sports-betting"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

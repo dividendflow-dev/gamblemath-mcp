@@ -1,0 +1,21 @@
+﻿{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "org.gamblemath/quant-lab",
+  "title": "GambleMath Quantitative Lab",
+  "description": "Deterministic quantitative gambling math, RTP variance telemetry across 4,362 slots, UKGC register exploration, and Monte Carlo probability calculators.",
+  "version": "1.0.0",
+  "websiteUrl": "https://gamblemath.org",
+  "icons": [
+    {
+      "src": "https://gamblemath.org/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gamblemath.org/mcp"
+    }
+  ]
+}

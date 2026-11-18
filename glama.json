@@ -1,0 +1,17 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "GambleMath Quantitative Lab",
+  "description": "Production MCP server for quantitative online casino RTP analysis (4,362 audited slot titles), UKGC licensing verification, and closed-form bonus EV simulations.",
+  "homepage": "https://gamblemath.org",
+  "maintainers": [
+    "gamblemath"
+  ],
+  "tags": [
+    "gaming",
+    "math",
+    "statistics",
+    "fintech",
+    "casino",
+    "compliance"
+  ]
+}

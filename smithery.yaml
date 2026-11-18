@@ -1,0 +1,20 @@
+startCommand:
+  type: http
+  url: "https://gamblemath.org/mcp"
+metadata:
+  name: "GambleMath Quantitative Lab"
+  description: "Quantitative casino RTP telemetry (4,362 slots), UKGC license registry checks (489 brands), and Monte Carlo EV calculators for AI agents."
+  version: "2027.2.0"
+  author: "GambleMath Open Research"
+  homepage: "https://gamblemath.org"
+  repository: "https://gamblemath.org"
+  license: "MIT"
+  keywords:
+    - mcp
+    - mcp-server
+    - gambling
+    - casino-rtp
+    - ukgc-register
+    - monte-carlo
+    - math
+    - sports-betting
